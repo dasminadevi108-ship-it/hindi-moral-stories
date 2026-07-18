@@ -1,0 +1,22 @@
+{
+  "stories": [
+    {
+      "id": "story_1",
+      "titleHindi": "शेर और चूहा",
+      "titleEnglish": "The Lion and the Mouse",
+      "descriptionHindi": "एक बार की बात है, एक शेर एक चूहे को पकड़ता है। चूहा अपनी जान बचाने के लिए शेर से प्रार्थना करता है। शेर अपनी शक्ति के कारण चूहे को छोड़ दे देता है। बाद में, शेर जाल में फंस जाता है और चूहा उसे बचाता है।",
+      "descriptionEnglish": "A lion catches a mouse. The mouse pleads for its life. The lion lets the mouse go. Later, the lion gets trapped and the mouse saves him.",
+      "moralHindi": "दया और कृपा कभी भी व्यर्थ नहीं जाती।",
+      "moralEnglish": "Kindness is never wasted.",
+      "videoUrl": "https://example.com/videos/lion_mouse.mp4",
+      "thumbnailUrl": "https://via.placeholder.com/400x300?text=Lion+and+Mouse",
+      "category": "Kindness",
+      "duration": 300,
+      "rating": 4.8,
+      "reviews": 245,
+      "createdAt": "2024-01-15T10:00:00Z",
+      "tags": ["kindness", "compassion"],
+      "featured": true
+    }
+  ]
+}
